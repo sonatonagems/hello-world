@@ -1,3 +1,3 @@
 # hello-world
-test
-The world is nothing without you and me  so cheefrs and be happy.
+Hi,
+The world is nothing without you and me  so cheers and be happy.
